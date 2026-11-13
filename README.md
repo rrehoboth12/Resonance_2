@@ -1,4 +1,4 @@
-# Resonance
+# Resonance_Version_2
 
 Resonance is a fully offline desktop music player with a frequency-reactive canvas visualizer. It reads local audio folders, plays the queue with standard controls, and maps FFT frequency energy to the interface palette, pulse rings, spectrum bars, and profile meters.
 
